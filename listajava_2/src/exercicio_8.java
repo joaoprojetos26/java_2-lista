@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class exercicio_8 {
     static void main() {
+       System.out.println("digite dois numeros inteiros");
         int num;
         int num1;
         Scanner sc = new Scanner(System.in);
